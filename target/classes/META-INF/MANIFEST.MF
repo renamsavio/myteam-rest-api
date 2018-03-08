@@ -1,5 +1,9 @@
 Manifest-Version: 1.0
+Implementation-Title: Spring Boot Simple Sample
+Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: renam
+Implementation-Vendor-Id: br.edu
 Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/
 Created-By: Maven Integration for Eclipse
 
